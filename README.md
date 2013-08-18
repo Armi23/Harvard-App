@@ -7,3 +7,5 @@ The menu portion shows what  is in the dining hall and updates the tiles with th
 The shuttle tracker allows you to find the next shuttle between two points.
 
 The map is still in development, but hopefully Bing Maps API will allow one to search for places with ease at Harvard.
+
+The entire app was my first solo project and I might update it since its menu functionality was helpful. 
