@@ -1,0 +1,33 @@
+﻿.Menupage p {
+    margin-left: 120px;
+}
+
+#MainMenu {
+    margin-bottom: 10px;
+    margin-left: 110px;
+}
+
+#Entree {
+    margin-bottom: 10px;
+    margin-left: 110px;
+}
+
+#VEntree {
+    margin-bottom: 10px;
+    margin-left: 110px;
+}
+
+#Starch {
+    margin-bottom: 10px;
+    margin-left: 110px;
+}
+
+#Soups {
+    margin-bottom: 10px;
+    margin-left: 110px;
+}
+
+#Dessert {
+    margin-bottom: 10px;
+    margin-left: 110px;
+}

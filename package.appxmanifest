@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="a256cd69-df56-4e79-932c-1a86ec0747e4" Version="1.0.0.0" Publisher="CN=Armi" />
+  <Properties>
+    <DisplayName>CS50Harvard App</DisplayName>
+    <PublisherDisplayName>Armi</PublisherDisplayName>
+    <Logo>images\storelogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="default.html">
+      <VisualElements DisplayName="Harvard App" Logo="images\NewSetLogoImage.png" SmallLogo="images\SetSmallLogo.png" Description="Harvard App" ForegroundText="light" BackgroundColor="#464646">
+        <DefaultTile ShowName="allLogos" WideLogo="images\Wide.png" />
+        <SplashScreen Image="images\SetSplashScreen.png" BackgroundColor="#B21B1B" />
+        <InitialRotationPreference>
+          <Rotation Preference="landscape" />
+        </InitialRotationPreference>
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

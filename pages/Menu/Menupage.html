@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Menupage</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <link href="Menupage.css" rel="stylesheet" />
+    <script src="Menupage.js"></script>
+</head>
+<body>
+    <div class="Menupage fragment">
+        <header aria-label="Header content" role="banner">
+            <button class="win-backbutton" aria-label="Back" disabled type="button"></button>
+            <h1 class="titlearea win-type-ellipsis">
+                <span class="pagetitle">What do you want to eat?</span>
+            </h1>
+        </header>
+        <section aria-label="Main content" role="main">
+            <button id="ForButton" style="text-align: left; width: 137.07px; height: 32px; position: relative; left: 661.99px; top: 0px;">NEXT DAY</button>
+            <button id="BackButton" style="text-align: left; width: 136.89px; height: 32px; position: relative; left: -30px; top: 0px;">PREVIOUS DAY</button>
+            <button id="BreakButton" style="text-align: left; width: 136.86px; height: 32px; position: relative; left: -34px; top: 0px;">BREAKFAST</button>
+            <button id="LunchButton" style="text-align: left; width: 136.91px; height: 32px; position: relative; left: -38px; top: 0px;">LUNCH</button>
+            <button id="DinnerButton" style="text-align: left; width: 137.33px; height: 32px; position: relative; left: -41px; top: 0px;">DINNER</button>
+            <button id="TodayButton" style="position: relative; width: 215.3px; height: 32px; left: 93px; top: 0px;">Back closest oncoming meal</button>
+            <div id="MainMenu"></div>
+            <div id="URL"></div>
+            <div id="Entree"></div>
+            <div id="VEntree"></div>
+            <div id="Starch"></div>
+            <div id="Soups"></div>
+            <div id="Dessert"></div>
+        </section>
+    </div>
+</body>
+</html>

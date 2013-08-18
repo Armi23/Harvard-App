@@ -1,0 +1,13 @@
+c:\users\armi\documents\visual studio 2012\Projects\CS50Harvard App\bin\Debug\resources.pri
+c:\users\armi\documents\visual studio 2012\Projects\CS50Harvard App\bin\Debug\AppxManifest.xml
+c:\users\armi\documents\visual studio 2012\Projects\CS50Harvard App\bin\Debug\CS50Harvard App.build.appxrecipe
+c:\users\armi\documents\visual studio 2012\Projects\CS50Harvard App\bld\Debug\priconfig.xml.intermediate
+c:\users\armi\documents\visual studio 2012\Projects\CS50Harvard App\bld\Debug\layout.resfiles.intermediate
+c:\users\armi\documents\visual studio 2012\Projects\CS50Harvard App\bld\Debug\resources.resfiles.intermediate
+c:\users\armi\documents\visual studio 2012\Projects\CS50Harvard App\bld\Debug\pri.resfiles.intermediate
+c:\users\armi\documents\visual studio 2012\Projects\CS50Harvard App\bld\Debug\priconfig.xml
+c:\users\armi\documents\visual studio 2012\Projects\CS50Harvard App\bld\Debug\layout.resfiles
+c:\users\armi\documents\visual studio 2012\Projects\CS50Harvard App\bld\Debug\resources.resfiles
+c:\users\armi\documents\visual studio 2012\Projects\CS50Harvard App\bld\Debug\pri.resfiles
+c:\users\armi\documents\visual studio 2012\Projects\CS50Harvard App\bld\Debug\LanguageQualifiers.txt
+c:\users\armi\documents\visual studio 2012\Projects\CS50Harvard App\bld\Debug\ProjectArchitectures.txt
